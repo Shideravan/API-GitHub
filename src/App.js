@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 import Item from './components/Item.jsx';
 import Starred from './components/Starred.jsx';
 import Repos from './components/Repos.jsx';
-import './App.css';
-import { getUsers } from './services/GitHub.js';
 import './style/reset.css';
+import './style/App.css';
+import { getUsers } from './services/GitHub.js';
 
 const App = () => {
   const [busca, setBusca] = useState('');

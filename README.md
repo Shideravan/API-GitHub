@@ -39,8 +39,8 @@ Este projeto conta com autenticação através do OAuth. Os tokens de autentica�
 ## APIs
 Foram utilizadas as seguintes _API_ fornecidas pelo _GitHub_:
 * _API search users_: https://api.github.com/search/users
-*_API Repos_: https://api.github.com/NOME_DO_USUARIO/repos
-*_API Starred_: https://api.github.com/NOME_DO_USUARIO/starred
+* _API Repos_: https://api.github.com/NOME_DO_USUARIO/repos
+* _API Starred_: https://api.github.com/NOME_DO_USUARIO/starred
 
 
 ## Exemplo de navegação
