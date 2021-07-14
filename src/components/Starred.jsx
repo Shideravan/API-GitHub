@@ -8,7 +8,9 @@ const Starred = (props) => {
     <div>
       <p>
         <label>
-          <strong>Repositórios foram marcados com estrela (starred): </strong>
+          <strong>
+            Repositórios que foram marcados com estrela (starred):{' '}
+          </strong>
           {usuario}
           <button
             onClick={getStarred(usuario)}
